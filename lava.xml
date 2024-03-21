@@ -4,6 +4,12 @@
   <remote  name="Redmi-MT6768"
            fetch="https://github.com/Redmi-MT6768"
            revision="eleven"/>
+  <remote  name="acex88"
+           fetch="https://github.com/acex88"
+           revision="v202"/>
+  <remote  name="noir-6769"
+           fetch="https://github.com/noir-6769"
+           revision="eleven"/>
 
  <!-- Device Trees -->
   <project path="device/xiaomi/lava" name="android_device_xiaomi_lava" remote="Redmi-MT6768" revision="lineage-18.1"/>
