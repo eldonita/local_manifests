@@ -19,7 +19,7 @@
   <project path="kernel/xiaomi/mt6768" name="kernel_xiaomi_mt6768" remote="noir-6769"/>
 
  <!-- Vendor Trees -->
-  <project path="vendor/xiaomi/lava" name="android_vendor_xiaomi_lava" remote="Redmi-MT6768"/>
+  <project path="vendor/xiaomi/lava" name="vendor_xiaomi_lava" remote="noir-6769"/>
   <project path="vendor/aeonax/ANXCamera" name="vendor_aeonax_ANXCamera" remote="acex88"/>
   
  <!-- Extras -->
