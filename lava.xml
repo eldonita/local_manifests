@@ -4,9 +4,9 @@
   <remote  name="Redmi-MT6768"
            fetch="https://github.com/Redmi-MT6768"
            revision="eleven"/>
-  <remote  name="acex88"
-           fetch="https://github.com/acex88"
-           revision="v202"/>
+  <remote  name="sarveshrulz"
+           fetch="https://github.com/sarveshrulz"
+           revision="v185"/>
   <remote  name="noir-6769"
            fetch="https://github.com/noir-6769"
            revision="eleven"/>
@@ -27,5 +27,3 @@
   
  <!-- Extras -->
   <project path="device/mediatek/sepolicy_vndr" name="PixelExperience/device_mediatek_sepolicy_vndr" remote="github" revision="eleven"/>
-
-</manifest>
